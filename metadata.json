@@ -1,0 +1,5 @@
+{
+  "name": "IFRS Mapper & Financial Statement Builder",
+  "description": "An AI-powered auditing tool for Gulaid Holding Group that automatically maps Trial Balance accounts to IFRS categories, validates reconciliation, and generates full IFRS Financial Statements and Notes, in line with SOCPA and ZATCA standards.",
+  "requestFramePermissions": []
+}
